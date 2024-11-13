@@ -22,7 +22,7 @@ def convertUrl():
     print("QR code has been created successfully! Check downloads folder.")
 
 def main():
-    print("This a QR code generator created by Shem-ux version 1.0.0")
+    print("This a QR code generator created by Shemz-ux version 1.0.0")
 
     convertUrl()
 
